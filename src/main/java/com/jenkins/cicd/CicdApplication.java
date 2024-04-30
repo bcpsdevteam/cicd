@@ -13,7 +13,7 @@ public class CicdApplication {
 
     @PostConstruct
     public void init() {
-        LOG.info("Hello, This is first step for jenkins cicd --1");
+        LOG.info("Hello, This is first step for jenkins cicd --2");
     }
 
     public static void main(String[] args) {
